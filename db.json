@@ -10,7 +10,7 @@
       "type": "INFO",
       "requestor": "user"
     },
-        {
+    {
       "uuid": "2",
       "name": "Title banner 2",
       "text": "Lorem ipsum",
@@ -20,7 +20,7 @@
       "type": "OUTAGE",
       "requestor": "user"
     },
-        {
+    {
       "uuid": "3",
       "name": "Title banner 3",
       "text": "Lorem ipsum",
@@ -30,7 +30,7 @@
       "type": "ACTION",
       "requestor": "user"
     },
-        {
+    {
       "uuid": "4",
       "name": "Title banner 4",
       "text": "Lorem ipsum",
@@ -39,6 +39,6 @@
       "active": "true",
       "type": "WARNING",
       "requestor": "user"
-    },
-  ],
+    }
+  ]
 }
