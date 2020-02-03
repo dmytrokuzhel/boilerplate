@@ -1,0 +1,44 @@
+{
+  "banners": [
+    {
+      "uuid": "1",
+      "name": "Title banner 1"
+      "text": "Lorem ipsum",
+      "begin": "03.02.2020",
+      "end": "05.02.2020",
+      "active": "true",
+      "type": "INFO",
+      "requestor": "user"
+    },
+        {
+      "uuid": "2",
+      "name": "Title banner 2"
+      "text": "Lorem ipsum",
+      "begin": "03.02.2020",
+      "end": "05.02.2020",
+      "active": "true",
+      "type": "OUTAGE",
+      "requestor": "user"
+    },
+        {
+      "uuid": "3",
+      "name": "Title banner 3"
+      "text": "Lorem ipsum",
+      "begin": "03.02.2020",
+      "end": "05.02.2020",
+      "active": "true",
+      "type": "ACTION",
+      "requestor": "user"
+    },
+        {
+      "uuid": "4",
+      "name": "Title banner 4"
+      "text": "Lorem ipsum",
+      "begin": "03.02.2020",
+      "end": "05.02.2020",
+      "active": "true",
+      "type": "WARNING",
+      "requestor": "user"
+    },
+  ],
+}
