@@ -7,7 +7,7 @@
       "begin": "03.02.2020",
       "end": "05.02.2020",
       "active": "true",
-      "type": "ERROR",
+      "type": "OUTAGE",
       "requestor": "user"
     },
     {
@@ -27,7 +27,7 @@
       "begin": "03.02.2020",
       "end": "05.02.2020",
       "active": "true",
-      "type": "SUCCESS",
+      "type": "ACTION",
       "requestor": "user"
     },
     {
