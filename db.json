@@ -1,66 +1,4 @@
 {
-  "banners": [
-    {
-      "uuid": "1",
-      "name": "WARNING",
-      "text": "Maximum severity, error, accident, etc. I could tell you my adventures—begia little timidly: ‘but it’s no use going back to yesterday, because I was a different Maximum severity, error, accident, etc. I could tell you my adventures—begia little timidly: ‘but it’s no use going back to yesterday,Maximum severity, error, accident, etc. I could tell you my adventures—begia little timidly: ‘but it’s no use going back to yesterday, because I was a different Maximum severity, error, accident, etc. I could tell you my adventures—begia little timidly: ‘but it’s no use going back to yesterday because I was a different",
-      "begin": "03.02.2020",
-      "end": "05.02.2020",
-      "active": "true",
-      "type": "OUTAGE",
-      "requestor": "user"
-    },
-    {
-      "uuid": "2",
-      "name": "REPAIR",
-      "text": "Repair work and other technical information of medium priority.",
-      "begin": "03.02.2020",
-      "end": "05.02.2020",
-      "active": "true",
-      "type": "WARNING",
-      "requestor": "user"
-    },
-    {
-      "uuid": "3",
-      "name": "MERRY XMAS",
-      "text": "DBaaS team wishes our customers Merry Xmas and a Happy New Year",
-      "begin": "03.02.2020",
-      "end": "05.02.2020",
-      "active": "true",
-      "type": "ACTION",
-      "requestor": "user"
-    },
-    {
-      "uuid": "4",
-      "name": "NEWS",
-      "text": "News, events etc. So many out-of-the-way things",
-      "begin": "03.02.2020",
-      "end": "05.02.2020",
-      "active": "true",
-      "type": "INFO",
-      "requestor": "user"
-    },
-    {
-      "uuid": "5",
-      "name": "WARNING",
-      "text": "Maximum severity, error, accident, etc. I could tell you my adventures—beginning from this morning,’ said Alice a little timidly: ‘but it’s no use going back to yesterday, because I was a different.",
-      "begin": "03.02.2020",
-      "end": "05.02.2020",
-      "active": "true",
-      "type": "OUTAGE",
-      "requestor": "user"
-    },
-    {
-      "uuid": "6",
-      "name": "WARNING",
-      "text": "Maximum severity, error, accident, etc. I could tell you my adventures—begia little timidly: ‘but it’s no use going back to yesterday, because I was a different Maximum severity, error, accident, etc. I could tell you my adventures—begia little timidly: ‘but it’s no use going back to yesterday,Maximum severity, error, accident, etc. I could tell you my adventures—begia little timidly: ‘but it’s no use going back to yesterday, because I was a different Maximum severity, error, accident, etc. I could tell you my adventures—begia little timidly: ‘but it’s no use going back to yesterday because I was a different",
-      "begin": "03.02.2020",
-      "end": "05.02.2020",
-      "active": "true",
-      "type": "OUTAGE",
-      "requestor": "user"
-    }
-  ],
   "users": [
     {
     "id": 1,
@@ -202,6 +140,190 @@
   },
   {
     "id": 7,
+    "name": "Kurtis Weissnat",
+    "username": "Elwyn.Skiles",
+    "email": "Telly.Hoeger@billy.biz",
+    "address": {
+      "street": "Rex Trail",
+      "suite": "Suite 280",
+      "city": "Howemouth",
+      "zipcode": "58804-1099",
+      "geo": {
+        "lat": "24.8918",
+        "lng": "21.8984"
+      }
+    },
+    "phone": "210.067.6132",
+    "website": "elvis.io",
+    "company": {
+      "name": "Johns Group",
+      "catchPhrase": "Configurable multimedia task-force",
+      "bs": "generate enterprise e-tailers"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Kurtis Weissnat",
+    "username": "Elwyn.Skiles",
+    "email": "Telly.Hoeger@billy.biz",
+    "address": {
+      "street": "Rex Trail",
+      "suite": "Suite 280",
+      "city": "Howemouth",
+      "zipcode": "58804-1099",
+      "geo": {
+        "lat": "24.8918",
+        "lng": "21.8984"
+      }
+    },
+    "phone": "210.067.6132",
+    "website": "elvis.io",
+    "company": {
+      "name": "Johns Group",
+      "catchPhrase": "Configurable multimedia task-force",
+      "bs": "generate enterprise e-tailers"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Kurtis Weissnat",
+    "username": "Elwyn.Skiles",
+    "email": "Telly.Hoeger@billy.biz",
+    "address": {
+      "street": "Rex Trail",
+      "suite": "Suite 280",
+      "city": "Howemouth",
+      "zipcode": "58804-1099",
+      "geo": {
+        "lat": "24.8918",
+        "lng": "21.8984"
+      }
+    },
+    "phone": "210.067.6132",
+    "website": "elvis.io",
+    "company": {
+      "name": "Johns Group",
+      "catchPhrase": "Configurable multimedia task-force",
+      "bs": "generate enterprise e-tailers"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Kurtis Weissnat",
+    "username": "Elwyn.Skiles",
+    "email": "Telly.Hoeger@billy.biz",
+    "address": {
+      "street": "Rex Trail",
+      "suite": "Suite 280",
+      "city": "Howemouth",
+      "zipcode": "58804-1099",
+      "geo": {
+        "lat": "24.8918",
+        "lng": "21.8984"
+      }
+    },
+    "phone": "210.067.6132",
+    "website": "elvis.io",
+    "company": {
+      "name": "Johns Group",
+      "catchPhrase": "Configurable multimedia task-force",
+      "bs": "generate enterprise e-tailers"
+    }
+  },
+  {
+    "id": 11,
+    "name": "Kurtis Weissnat",
+    "username": "Elwyn.Skiles",
+    "email": "Telly.Hoeger@billy.biz",
+    "address": {
+      "street": "Rex Trail",
+      "suite": "Suite 280",
+      "city": "Howemouth",
+      "zipcode": "58804-1099",
+      "geo": {
+        "lat": "24.8918",
+        "lng": "21.8984"
+      }
+    },
+    "phone": "210.067.6132",
+    "website": "elvis.io",
+    "company": {
+      "name": "Johns Group",
+      "catchPhrase": "Configurable multimedia task-force",
+      "bs": "generate enterprise e-tailers"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Kurtis Weissnat",
+    "username": "Elwyn.Skiles",
+    "email": "Telly.Hoeger@billy.biz",
+    "address": {
+      "street": "Rex Trail",
+      "suite": "Suite 280",
+      "city": "Howemouth",
+      "zipcode": "58804-1099",
+      "geo": {
+        "lat": "24.8918",
+        "lng": "21.8984"
+      }
+    },
+    "phone": "210.067.6132",
+    "website": "elvis.io",
+    "company": {
+      "name": "Johns Group",
+      "catchPhrase": "Configurable multimedia task-force",
+      "bs": "generate enterprise e-tailers"
+    }
+  },
+  {
+    "id": 13,
+    "name": "Kurtis Weissnat",
+    "username": "Elwyn.Skiles",
+    "email": "Telly.Hoeger@billy.biz",
+    "address": {
+      "street": "Rex Trail",
+      "suite": "Suite 280",
+      "city": "Howemouth",
+      "zipcode": "58804-1099",
+      "geo": {
+        "lat": "24.8918",
+        "lng": "21.8984"
+      }
+    },
+    "phone": "210.067.6132",
+    "website": "elvis.io",
+    "company": {
+      "name": "Johns Group",
+      "catchPhrase": "Configurable multimedia task-force",
+      "bs": "generate enterprise e-tailers"
+    }
+  },
+  {
+    "id": 14,
+    "name": "Kurtis Weissnat",
+    "username": "Elwyn.Skiles",
+    "email": "Telly.Hoeger@billy.biz",
+    "address": {
+      "street": "Rex Trail",
+      "suite": "Suite 280",
+      "city": "Howemouth",
+      "zipcode": "58804-1099",
+      "geo": {
+        "lat": "24.8918",
+        "lng": "21.8984"
+      }
+    },
+    "phone": "210.067.6132",
+    "website": "elvis.io",
+    "company": {
+      "name": "Johns Group",
+      "catchPhrase": "Configurable multimedia task-force",
+      "bs": "generate enterprise e-tailers"
+    }
+  },
+  {
+    "id": 15,
     "name": "Kurtis Weissnat",
     "username": "Elwyn.Skiles",
     "email": "Telly.Hoeger@billy.biz",
