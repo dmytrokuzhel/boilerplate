@@ -59,6 +59,16 @@
       "active": "true",
       "type": "OUTAGE",
       "requestor": "user"
+    },
+    {
+      "uuid": "7",
+      "name": "ACTION",
+      "text": "New Banner",
+      "begin": "03.02.2020",
+      "end": "05.02.2020",
+      "active": "true",
+      "type": "ACTION",
+      "requestor": "user"
     }
   ],
   "users": [
